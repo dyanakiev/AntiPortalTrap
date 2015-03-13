@@ -1,0 +1,5 @@
+name: AntiPortalTrap
+description: Teleport player to spawn if they inside a portal when they join
+version: ${version}
+author: Byteflux
+main: net.minelink.antiportaltrap.AntiPortalTrap
